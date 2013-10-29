@@ -5,7 +5,8 @@ How-to for dummies (aka designers like me).
 
 ## Xcode
 
-1. Get [Xcode](https://developer.apple.com/xcode/) from the Mac App Store. — Why would you need Apple’s SDK when you’re developing for the Web only? Because you’re on OSX and Apple want you to eat their dog food — all of it. Before OSX v.9 “Mavericks”, you needed to install Xcode and (separately!) also install the Command Line tools. It seems with Mavericks you can have the Command Line tools, _without_ Xcode. Any how, once the Command Line tools are being installed, you already have lots in the tool belt. For one: git.
+1. Get [Xcode](https://developer.apple.com/xcode/) from the Mac App Store.
+Why would you need Apple’s SDK when you’re developing for the Web only? Because you’re on OSX and Apple want you to eat their dog food — all of it. Before OSX v.9 “Mavericks”, you needed to install Xcode and (separately!) also install the Command Line tools. It seems with Mavericks you can have the Command Line tools, _without_ Xcode. Any how, once the Command Line tools are being installed, you already have lots in the tool belt. For one: git.
 
 
 ## Git
@@ -35,10 +36,10 @@ To do!
 
 3. Check if you’re up-to-date:
 ```Batchfile
-$ node --version` → 0.10.21
+$ node --version
 ```
 ```Batchfile
-$ npm version` → 1.3.11
+$ npm version
 ```
 
 
