@@ -4,7 +4,7 @@ Apps available from the Mac App Store are marked with .
 
 ## Text editing
 - [Sublime Text](http://www.sublimetext.com/) is your code editor of choice. It’s fully customizable and extensible, with a thriving community pumping out lots of handy features and utilities (such as the awesome ⌘D multiple selection cursor). I’ll do a separate write-up on my Sublime Text setup.
-- [iA Writer](http://www.iawriter.com/mac/)  — Only enterprise n00bs still use WYSIWYG text processors like MS Word, Pages, and the like. _Sublime Text_ definitely is the all-round plain text editor of choice, both for coding and for writing. But iA Writer is a gorgeous alternative, with focus on anything but writing.
+- [iA Writer](http://www.iawriter.com/mac/)  — Only enterprise n00bs still use WYSIWYG text processors like MS Word, Pages, and the like. _Sublime Text_ definitely is the all-round plain text editor of choice, both for coding and for writing. But iA Writer is a gorgeous alternative, with absolute focus on writing.
 - Still, there’s a lot of competition in the writing app space. I will be doing a full write-up, someday — and perhaps even take up my own implementation, some other day. Meanwhile, from time to time, I play around with [TexPad](https://www.texpadapp.com/osx)  for LaTeX authoring, and [Ulysses](http://www.ulyssesapp.com/)  for more complex writing projects. I need to take a better look at [Mou](http://mouapp.com/), as well.
 
 ## Editing tabular data
@@ -25,11 +25,11 @@ Apps available from the Mac App Store are marked with .
 
 ## Browser
 - [Google Chrome](https://www.google.com/chrome) and its extensions — Chrome is the indispensable `-webkit` browser. Its developer tools (notably the Inspector) make it the de facto standard amongst webdevs. Chrome has one major drawback: its insatiable memory consumption… Anyhow, Chrome needs some pimping. These are my favorite extensions:
--- [Feedly](https://chrome.google.com/webstore/detail/feedly/ndhinffkekpekljifjkkkkkhopnjodja)
--- [Web Developer](http://chrispederick.com/work/web-developer/) is a need-have for web developers, especially because of its responsive previews.
--- [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi): a neat user stylesheet for news.ycombinator.com a.k.a. “Hacker News”. **We’ll be rolling our own HN web app soon…**
--- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
--- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
+- [Feedly](https://chrome.google.com/webstore/detail/feedly/ndhinffkekpekljifjkkkkkhopnjodja)
+- [Web Developer](http://chrispederick.com/work/web-developer/) is a need-have for web developers, especially because of its responsive previews.
+- [Georgify](https://chrome.google.com/webstore/detail/georgify/ofjfdfaleomlfanfehgblppafkijjhmi): a neat user stylesheet for news.ycombinator.com a.k.a. “Hacker News”. **We’ll be rolling our own HN web app soon…**
+- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
 
 ## Calendar
 - [Fantastical](http://flexibits.com/fantastical) 
@@ -47,7 +47,7 @@ Once upon a time, people sent each other messages using an ancient internet prot
 - ~~[Memory Sweeper Pro](https://itunes.apple.com/be/app/memory-sweeper-pro/id440010327)~~  — With a new machine clocking in @ 16Gb of RAM, I hope I won’t need this once indispensable utility any longer…
 
 ## Scanning & OCR
-- [VueScan](http://www.hamrick.com/) — I still got my everlasting Agfa SnapScan e50 (which I bought in 1997!). Agfa (our Belgian pride graphics company) discontinued its consumer scanner product line back in 2001 — and support for their drivers with it. VueScan came to my rescue as the powerhouse generic scanning app.
+- [VueScan](http://www.hamrick.com/) — I still have (and use) my everlasting Agfa SnapScan e50 (which I bought in 1997!). Agfa (our Belgian pride graphics company) discontinued its consumer scanner product line back in 2001 — and support for their drivers with it. VueScan came to my rescue as the powerhouse generic scanning app.
 - [ABBY FineReader Express](http://finereader.abbyy.com/finereader_for_mac/)  — When it comes to OCR, choice on the Mac is poor. Abby’s FineReader Pro is an OCR standard, running on Windows. Recently they put an “Express” version in the Mac App Store.
 
 ## Varia utilities
