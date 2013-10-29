@@ -15,13 +15,12 @@ Why would you need Apple’s SDK when you’re developing for the Web only? Beca
 ```Batchfile
 	$ git version
 ```
+[![NPM version](https://badge.fury.io/js/git.png)](http://badge.fury.io/js/git)
 
 2. Update if necessary:
-```Batchfile
-	$
-```
+http://stackoverflow.com/questions/8957862/how-to-upgrade-git-to-latest-version-on-mac-osx-lion
 
-3. Install Atlassian’s **[SourceTree](http://www.sourcetreeapp.com/)**. (Note: The version in the Mac App Store is deprecated.) Okay, that’s an app, as in: has a GUI. It’s a Git client with a decent graphical interface: you’ll prefer using that over memorizing all those git commands, especially when you start committing separate chunks of edits.
+3. Get Atlassian’s **[SourceTree](http://www.sourcetreeapp.com/)**. (Note: The version in the Mac App Store is deprecated.) Okay, that’s an app, as in: has a GUI. It’s a Git client with a decent graphical interface: you’ll prefer using that over memorizing all those git commands, especially when you start committing separate chunks of edits.
 
 
 ## ssh
@@ -38,10 +37,11 @@ To do!
 ```Batchfile
 $ node --version
 ```
-This should yield [![NPM version](https://badge.fury.io/js/node.png)](http://badge.fury.io/js/node)
+[![NPM version](https://badge.fury.io/js/node.png)](http://badge.fury.io/js/node) — v0.10.21 ?
 ```Batchfile
 $ npm version
 ```
+[![NPM version](https://badge.fury.io/js/npm.png)](http://badge.fury.io/js/npm)
 
 
 ## Homebrew
@@ -70,6 +70,7 @@ To do!
 ```Batchfile
 $ node -version
 ```
+[![NPM version](https://badge.fury.io/js/docpad.png)](http://badge.fury.io/js/docpad)
 
 2. We do the same for npm (the Node package manager):
 ```Batchfile
