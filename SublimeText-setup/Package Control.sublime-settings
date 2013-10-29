@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"eco",
+		"EncodingHelper",
+		"Hacker News",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Theme - Flatland"
+	],
+	"repositories":
+	[
+		"https://github.com/davidjrice/sublime-eco.git"
+	]
+}

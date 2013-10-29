@@ -1,0 +1,32 @@
+{
+	"caret_style": "wide",
+	"color_pick_upcase": false,
+	"color_scheme": "Packages/Colorsublime-Themes/Colorized-418124035678600-Experimental.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.scssc",
+		"*.DS_Store",
+		".gitignore",
+		"Procfile"
+	],
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git"
+	],
+	"font_face": "Cousine",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
+}
