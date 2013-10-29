@@ -15,7 +15,7 @@ Why would you need Apple’s SDK when you’re developing for the Web only? Beca
 ```Batchfile
 	$ git version
 ```
-[![NPM version](https://badge.fury.io/js/git@2x.png)](http://badge.fury.io/js/git) — git version 1.8.3.4 (Apple Git-47) ?
+[![NPM version](https://badge.fury.io/js/git.png)](http://badge.fury.io/js/git) — git version 1.8.3.4 (Apple Git-47) ?
 
 2. Update if necessary:
 http://stackoverflow.com/questions/8957862/how-to-upgrade-git-to-latest-version-on-mac-osx-lion
@@ -37,11 +37,11 @@ To do!
 ```Batchfile
 $ node --version
 ```
-[![NPM version](https://badge.fury.io/js/node@2x.png)](http://badge.fury.io/js/node) — v0.10.21 ?
+[![NPM version](https://badge.fury.io/js/node.png)](http://badge.fury.io/js/node) — v0.10.21 ?
 ```Batchfile
 $ npm version
 ```
-[![NPM version](https://badge.fury.io/js/npm@2x.png)](http://badge.fury.io/js/npm)
+[![NPM version](https://badge.fury.io/js/npm.png)](http://badge.fury.io/js/npm)
 
 
 ## Homebrew
@@ -70,7 +70,7 @@ To do!
 ```Batchfile
 $ node -version
 ```
-[![NPM version](https://badge.fury.io/js/docpad@2x.png)](http://badge.fury.io/js/docpad)
+[![NPM version](https://badge.fury.io/js/docpad.png)](http://badge.fury.io/js/docpad)
 
 
 2. We do the same for npm (the Node package manager):
@@ -118,4 +118,3 @@ To do!
 
 ## Meteor & Meteorite
 To do!
-
