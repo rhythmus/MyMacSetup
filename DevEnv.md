@@ -38,6 +38,7 @@ To do!
 ```Batchfile
 $ node --version
 ```
+This should yield [![NPM version](https://badge.fury.io/js/node.png)](http://badge.fury.io/js/node)
 ```Batchfile
 $ npm version
 ```
