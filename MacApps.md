@@ -3,9 +3,10 @@
 Apps available from the Mac App Store are marked with .
 
 ## Text editing
-- [Sublime Text](http://www.sublimetext.com/) is your code editor of choice. It’s fully customizable and extensible, with a thriving community pumping out lots of handy features and utilities (such as the awesome ⌘D multiple selection cursor). I’ll do a separate write-up on my Sublime Text setup.
+- [Sublime Text](http://www.sublimetext.com/) is your code editor of choice. It’s fully customizable and extensible, with a thriving community pumping out lots of handy features and utilities (such as the awesome ⌘D multiple selection cursor). (I’ll do a separate write-up on my Sublime Text setup.)
 - [iA Writer](http://www.iawriter.com/mac/)  — Only enterprise n00bs still use WYSIWYG text processors like MS Word, Pages, and the like. _Sublime Text_ definitely is the all-round plain text editor of choice, both for coding and for writing. But iA Writer is a gorgeous alternative, with absolute focus on writing.
-- Still, there’s a lot of competition in the writing app space. I will be doing a full write-up, someday — and perhaps even take up my own implementation, some other day. Meanwhile, from time to time, I play around with [TexPad](https://www.texpadapp.com/osx)  for LaTeX authoring, and [Ulysses](http://www.ulyssesapp.com/)  for more complex writing projects. I need to take a better look at [Mou](http://mouapp.com/), as well.
+- Still, there’s a lot of competition in the writing app space. I will be doing a full write-up, someday — and perhaps even take up my own implementation, some other day. Meanwhile, from time to time, I play around with [TexPad](https://www.texpadapp.com/osx)  for LaTeX authoring, and [Ulysses](http://www.ulyssesapp.com/)  for more complex writing projects.
+- As a plain text editor, Sublime Text supports [Markdown](https://github.com/rhythmus/markdown-resources) editing (there’s several packages (plugins) for Markdown syntax highlighting). iA Writer features it’s own Markdown “flavor” (Writedown, which is basically compatible with plain Markdown). **[Mou](http://mouapp.com/)** is a great free alternative for versatile (GitHub Flavored) Markdown editing: you can add your own theme and stylesheets! [Texts](http://www.texts.io/) is even better, in that it supports multiple Markdown flavors, and features several output formats (pdf, Word documents, LaTex, etc.). **[Marked](http://markedapp.com/)**  is a paid, highly customizable alternative to Mou.  The absolute most powerful Markdown editor is however **[MultiMarkdown Composer](http://multimarkdown.com/)**  , which has full support for the de facto standard versatile Markdown extension.
 
 ## Editing tabular data
 - [CSVEditor](https://itunes.apple.com/us/app/csveditor-2/id644191861)  is a plain and simple tool for editing tabular data.
@@ -36,7 +37,7 @@ Apps available from the Mac App Store are marked with .
 - [BusyCal](http://www.busymac.com/busycal/index.html) 
 
 ## Mail
-Once upon a time, people sent each other messages using an ancient internet protocol. It was cool, back then, to get a ping and a kind word, once in a while, in your “inbox”. But then the messages came in daily floods, and people also started “attaching” megabytes of dumb files to their “e-mails”. Their computers got stuffed with huge directories of darkness. Worse still, each day evil Russians sent millions of e-mails over the Interwebs, polluting the skies with tons of CO². One needed “spam” filters, people’s mental health got messed up over “POP3” vs “IMAP”. You got “Exchange servers”, and ITC departments were doing almost nothing else than untangling the confusion. Internet businesses to which one could outsource the arcane e-mail management, thrived. Matters grew worse when it turned out that evil Americans had been reading all the world’s letters ever since! Soon after, electronic mail died — and nobody cared.
+Once upon a time, people sent each other messages using an ancient internet protocol. It was cool, back then, to get a ping and a kind word, once in a while, in your “inbox”. But then the messages came in daily floods, and people also started “attaching” megabytes of dumb files to their “e-mails”. Their computers got stuffed with huge directories of darkness. Worse still, each day evil Russians sent millions of e-mails over the Interwebs, polluting the skies with tons of CO². One needed “spam” filters, people’s mental health got messed up over “POP3” vs “IMAP”. You got “Exchange servers”, and ICT departments were doing almost nothing else than untangling the confusion. Internet businesses to which one could outsource the arcane e-mail management, thrived. Matters grew worse when it turned out that evil Americans had been reading all the world’s letters ever since! Soon after, electronic mail died — and nobody noticed. Too busy chatting on the Facebook and the Twitters.
 
 ## Sysadmin
 - [Carbon Copy Cloner](http://www.bombich.com/)
@@ -45,6 +46,7 @@ Once upon a time, people sent each other messages using an ancient internet prot
 - [Cyberduck](http://cyberduck.ch/)  — The ftp client of choice.
 - [Fontcase](http://www.bohemiancoding.com/fontcase/) 
 - ~~[Memory Sweeper Pro](https://itunes.apple.com/be/app/memory-sweeper-pro/id440010327)~~  — With a new machine clocking in @ 16Gb of RAM, I hope I won’t need this once indispensable utility any longer…
+- Maybe it’s a good time to start using [Alfred](http://www.alfredapp.com/) .
 
 ## Scanning & OCR
 - [VueScan](http://www.hamrick.com/) — I still have (and use) my everlasting Agfa SnapScan e50 (which I bought in 1997!). Agfa (our Belgian pride graphics company) discontinued its consumer scanner product line back in 2001 — and support for their drivers with it. VueScan came to my rescue as the powerhouse generic scanning app.
